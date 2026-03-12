@@ -69,7 +69,7 @@ void display()
     cout << endl;
 }
 
-int main () //final
+int main () //Final
 {
     input();
     insertionsort();
